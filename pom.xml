@@ -14,7 +14,7 @@
 	</prerequisites>
 
 	<properties>
-		<vaadin7.version>7.7.17</vaadin7.version>
+		<vaadin7.version>8.12.4</vaadin7.version>
 		<vaadin.version>14.4.10</vaadin.version>
 		<vaadin.plugin.version>7.7.17</vaadin.plugin.version>
 		<flow.version>2.1.8</flow.version>
