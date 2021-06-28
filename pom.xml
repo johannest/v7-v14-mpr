@@ -15,7 +15,7 @@
 
 	<properties>
 		<vaadin7.version>7.7.17</vaadin7.version>
-		<vaadin.version>14.4.10</vaadin.version>
+		<vaadin.version>14.6.2</vaadin.version>
 		<vaadin.plugin.version>7.7.17</vaadin.plugin.version>
 		<flow.version>2.1.8</flow.version>
 		<jetty.plugin.version>9.4.27.v20200227</jetty.plugin.version>
