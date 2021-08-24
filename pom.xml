@@ -15,9 +15,9 @@
 
 	<properties>
 		<vaadin7.version>7.7.17</vaadin7.version>
-		<vaadin.version>14.4.10</vaadin.version>
+		<vaadin.version>14.6.5</vaadin.version>
 		<vaadin.plugin.version>7.7.17</vaadin.plugin.version>
-		<flow.version>2.1.8</flow.version>
+		<flow.version>2.6.5</flow.version>
 		<jetty.plugin.version>9.4.27.v20200227</jetty.plugin.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<maven.compiler.source>1.8</maven.compiler.source>
@@ -77,11 +77,6 @@
 		</dependency>
 		<dependency>
 			<groupId>com.vaadin</groupId>
-			<artifactId>vaadin-push</artifactId>
-			<version>${vaadin7.version}</version>
-		</dependency>
-		<dependency>
-			<groupId>com.vaadin</groupId>
 			<artifactId>vaadin-themes</artifactId>
 			<version>${vaadin7.version}</version>
 		</dependency>
@@ -89,6 +84,16 @@
 			<groupId>org.slf4j</groupId>
 			<artifactId>slf4j-simple</artifactId>
 			<version>1.7.25</version>
+		</dependency>
+		<dependency>
+			<groupId>org.vaadin.addon</groupId>
+			<artifactId>easyuploads</artifactId>
+			<version>7.4.10</version>
+		</dependency>
+		<dependency>
+			<groupId>org.vaadin.addon</groupId>
+			<artifactId>v-leaflet</artifactId>
+			<version>1.0.8</version>
 		</dependency>
 	</dependencies>
 
